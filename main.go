@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hashicorp/go-version"
+	"github.com/roots/roots-cli/Godeps/_workspace/src/github.com/hashicorp/go-version"
 	"os"
 	"os/exec"
 	"path/filepath"
