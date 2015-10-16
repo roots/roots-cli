@@ -17,6 +17,10 @@ After this base implementation is accomplished, we can examine more features tha
 
 See [Issue #2](https://github.com/roots/roots-cli/issues/2)
 
+## Questions and feedback
+
+Please use the [roots-cli category on Roots Discourse](https://discourse.roots.io/c/roots-cli) instead of using GitHub issues.
+
 ## Installation
 
 ### Compile from source
